@@ -1,9 +1,3 @@
-/*
-* student.cpp
-*
-*  Created on: Jan 15, 2015
-*      Author: liuyan
-*/
 #include <iostream>
 #include <string>
 #include "student.h"
