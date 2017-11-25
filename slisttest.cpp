@@ -1,5 +1,4 @@
 #include "slist.h"
-//This code has both mains: PART1 AND PART2 OF THE ASSIGNMENT
 int stest_main();
 
 int main() {
