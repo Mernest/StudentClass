@@ -1,10 +1,3 @@
-/*
-* student.h
-*
-*  Created on: Jan 15, 2015
-*      Author: liuyan
-*/
-
 #ifndef STUDENT_H_
 #define STUDENT_H_
 
